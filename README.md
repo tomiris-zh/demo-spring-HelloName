@@ -6,4 +6,4 @@ your name to “Tomiris” in the request, the response would be “Hello Tomiri
 
 You can run the application by using _**mvnw spring-boot:run**_ command on Windows and _**./mvnw spring-boot:run**_ command on MacOS/Linux. 
 
-You can find default response on _localhost8080/hello?name_, and also set your own *name* parameter.
+You can find default response on _localhost8080/hello?name_, and set your own *name* parameter.
